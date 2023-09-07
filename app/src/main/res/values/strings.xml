@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">PhinconAttendance</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="title1">DIGITAL ABSENSI</string>
+    <string name="title2">ATTENDANCE SYSTEM</string>
+    <string name="title3">SELALU PAKAI MASKER</string>
+    <string name="skip">SKIP</string>
+    <string name="desc1">Kehadiran sistem absensi digital merupakan penemuan yang mampu menggantikan pencatatan data kehadiran secara manual</string>
+    <string name="desc2">Pengelolaan karyawan di era digital yang baik, menghasilkan karyawan terbaik pula, salah satunya absensi karyawan</string>
+
+
+    <string name="desc3">Guna mencegah penyebaran virus Covid-19, Pemerintah telah mengeluarkan kebijakan Physical Distancing serta kebijakan bekerja, belajar, dan beribadah dari rumah.</string>
+    <string name="titlelogin">Welcome to Login</string>
+    <string name="desclogin">Please fill Username &amp; password to login your app account</string>
+    <string name="emailtitle">Email</string>
+    <string name="email">Email</string>
+    <string name="passwordtitle">Password</string>
+    <string name="password">***************</string>
+    <string name="forgotpassword">Forgot password ?</string>
+    <string name="loginbuttontext">Login Now</string>
+    <string name="donthaveacc">Don’t Have Account? please</string>
+    <string name="texxregister">Register</string>
+    <string name="titlesignup">Create your account</string>
+    <string name="descsignup">Please fill Fullname, No. KTP, Ship &amp; Password to register your app</string>
+    <string name="fullname">Full Name</string>
+    <string name="fullnamehint">Employee fullname</string>
+    <string name="repeatpass">Repeat Password</string>
+    <string name="registerbuttontext">Register</string>
+    <string name="alreadyhaveacc">Already Have Account? please</string>
+    <string name="textlogin">Login</string>
+    <string name="forgottitle">Forgot password</string>
+    <string name="descforgot">Please fill Usernaame, Password &amp; New Password to reset your account</string>
+    <string name="noktptitle">No. KTP</string>
+    <string name="noktphint">3200009991121212</string>
+    <string name="repeatpasstextbutton">Reset Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="yourattendance">Your Attendance</string>
+    <string name="hourtitle">Hour: </string>
+    <string name="hourvalue">9:00</string>
+    <string name="date">29 Januari 2021</string>
+    <string name="checkin">CHECK IN</string>
+    <string name="chcekout">CHECK OUT</string>
+    <string name="location">Location</string>
+
+    <string name="profiletitle">Profile</string>
+    <string name="nameuser">Ikrar Khaera Arfat</string>
+    <string name="role">Android Developer</string>
+    <string name="general">GENERAL</string>
+    <string name="nokaryawantitle">No. Karyawan</string>
+    <string name="nik">NIK-0909090909</string>
+    <string name="alamattitle">Alamat</string>\
+    <string name="alamatuser">Kota Bandung</string>
+    <string name="changepass">Change Password</string>
+    <string name="changepassvalue">****************</string>
+
+
+    <string-array name="data_place">
+        <item>PT. Phincon</item>
+        <item>Telkomsel Smart Office</item>
+        <item>Rumah</item>
+    </string-array>
+
+    <string-array name="data_address">
+        <item>Office. 88 @Kasablanka Office Tower 18th Floor</item>
+        <item>Jl. Jend. Gatot Subroto Kav. 52. Jakarta Selatan</item>
+        <item>Jakarta</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/phincon</item>
+        <item>@drawable/tso</item>
+        <item>@drawable/rumah</item>
+    </string-array>
+
+    <string name="nameplace">Name Place</string>
+    <string name="address">Address</string>
+
+
+    <string name="attendancehistory">Attendance History</string>
+    <string name="logs">Logs</string>
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="status">Status</string>
+    <string name="strip"> - </string>
+    <string name="time">9:00 PM</string>
+
+
+</resources>
